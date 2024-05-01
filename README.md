@@ -1,5 +1,5 @@
 
-<div> 
+<strong><div> 
 Hey there! Thanks for being here. My name is Gabriel Limone Nunes, and I'm from São Paulo, Brazil.
 
 Currently, I'm pursuing a degree in Computer Engineering at UNIVESP, a public university in São Paulo.
@@ -9,7 +9,7 @@ My current objective is to specialize in back-end programming. I'm interested in
 Beyond Java, my goal is to explore and master additional technologies on this never-ending journey of knowledge. I'm committed to continuous learning and growth as I strive to become a highly skilled and versatile backend developer.
 
 Keep some information about me, remembering that I'm still developing and will evolve a lot more. Thank you for your time!
-</div>
+<strong></div>
 
 <br>
 
