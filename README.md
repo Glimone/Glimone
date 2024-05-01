@@ -1,3 +1,18 @@
+
+<div> 
+Hey there! Thanks for being here. My name is Gabriel Limone Nunes, and I'm from São Paulo, Brazil.
+
+Currently, I'm pursuing a degree in Computer Engineering at UNIVESP, a public university in São Paulo.
+
+My current objective is to specialize in back-end programming. I'm interested in developing efficient server-side applications. To further my skills in this area, I'm enrolled in a JAVA bootcamp sponsored by Santander/DIO. This opportunity allows me to delve deeper into Java development and gain practical experience in building back-end systems.
+
+Beyond Java, my goal is to explore and master additional technologies on this never-ending journey of knowledge. I'm committed to continuous learning and growth as I strive to become a highly skilled and versatile backend developer.
+
+Keep some information about me, remembering that I'm still developing and will evolve a lot more. Thank you for your time!
+</div>
+
+<br>
+
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Glimone&hide=stars&theme=maroongold" />
 </a>
