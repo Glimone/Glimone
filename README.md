@@ -2,7 +2,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Glimone&hide=stars&theme=maroongold" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Glimone&layout=compact&langs_count=8&card_width=320&theme=maroongold" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Glimone&layout=compact&langs_count=8&card_width=320&theme=maroongold" />
 </a>
 
 ##
@@ -23,8 +23,10 @@
   <a href = "mailto:Glimone.nunes@outlook.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/gabriel-limone/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+</div> <br>
+
+##
   
-##          
+          
           
           
